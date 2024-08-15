@@ -36,6 +36,17 @@ Am Ende dieses Abschnitts sollten Sie:
 - Netzwerkanfragen an mindestens 10 relevante Entwickler gesendet haben.
 - Ihren Online-Kalender erstellt und in Ihrem LinkedIn-Profil integriert haben.
 
+## Eigener Fork und Pull Requests
+
+Erstellen Sie einen eigenen Fork dieses Repositories, um Ihre Notizen, Änderungen und Fortschritte zu dokumentieren. Alle Fragen oder Anregungen, die während der Bearbeitung aufkommen, sollten über Issues in Ihrem Fork erfasst werden. Wenn Sie Vorschläge für das Hauptrepository haben, können Sie einen Pull Request stellen.
+
+## Mögliche Issues
+
+Hier sind einige Vorschläge für Issues, die Sie erstellen könnten:
+- **Lokalisierung auf Englisch, Französisch, Ukrainisch:** Verbesserung der Zugänglichkeit durch mehrsprachige Unterstützung.
+- **Erstellung von Einführungsvideos:** Ergänzung der schriftlichen Anleitungen durch visuelle Lerninhalte.
+- **Erweiterung der Netzwerkanfragen-Tipps:** Vertiefte Strategien für effektiveres Networking auf LinkedIn.
+
 ## Best Practices
 
 - **Haben Sie keine Angst vor Netzwerkanfragen:** Kontakte knüpfen ist entscheidend. Je mehr Verbindungen Sie haben, desto besser sind Ihre Chancen, für interessante Jobangebote in Betracht gezogen zu werden.
