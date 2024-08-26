@@ -18,11 +18,21 @@ Um sicherzustellen, dass Ihre E-Mail-Kommunikation den Anforderungen der Datensc
 - **Sicherheit**: Bietet End-to-End-Verschlüsselung für E-Mails und Kalender.
 - **Benutzerfreundlichkeit**: Einfache Integration in bestehende Systeme und Tools.
 
+#### **Alternative: Outlook**
+
+- **Website**: Besuchen Sie [Outlook](https://outlook.com), um sich für ein Konto anzumelden.
+- **Registrierung**: Gehen Sie auf die Website, klicken Sie auf "Konto erstellen" und folgen Sie den Anweisungen, um ein neues Outlook-Konto zu eröffnen. Outlook bietet sowohl E-Mail- als auch Kalenderdienste an.
+
 ## 2. Schritt: Meetergo-Konto erstellen
 
 - Besuchen Sie [Meetergo](https://meetergo.cello.so/uDm9fjP8hJ7) und erstellen Sie ein Konto.
 - Folgen Sie den Anweisungen zur Einrichtung Ihres Profils und Kalenders.
-- Verbinden Sie Ihr Tutanota-Kalenderkonto mit Meetergo, um Ihre Termine nahtlos zu synchronisieren.
+- Verbinden Sie Ihr Kalenderkonto mit Meetergo, um Ihre Termine nahtlos zu synchronisieren.
+  
+  ![image](https://github.com/user-attachments/assets/16764f86-613d-4cd3-bc77-b7e9c0496f37)     
+  ![image](https://github.com/user-attachments/assets/0d988d6f-b835-42c0-b96b-66d2321ae23c)
+
+
 
 ## 3. Schritt: Kalender konfigurieren
 
@@ -32,6 +42,11 @@ Um sicherzustellen, dass Ihre E-Mail-Kommunikation den Anforderungen der Datensc
 ## 4. Schritt: Kalenderlink erstellen und teilen
 
 - Generieren Sie einen öffentlichen Link zu Ihrem Kalender.
+
+  ![image](https://github.com/user-attachments/assets/3fd8d0b1-4998-494d-bcf4-9684e617e07b)
+  ![image](https://github.com/user-attachments/assets/286ce1f9-f8f6-4c47-bc9f-7cc127207394)
+
+
 - Fügen Sie diesen Link in Ihr LinkedIn-Profil unter „Kontaktdaten“ ein, damit neue Kontakte direkt einen Termin mit Ihnen vereinbaren können.
 
 ## 5. Schritt: Termine organisieren
